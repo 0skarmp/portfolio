@@ -11,7 +11,7 @@ function Body() {
           A web designer and developer from Lima, Peru.
           <br />I really like to improve my skills and get better every day..!!
           <div className="ml-20 mt-10 md:ml-60 md:mt-10 lg:ml-60 lg:mt-10 xl:ml-96 xl:mt-12 ">
-            <a href="https://fonts.google.com/specimen/Salsa" target="_blank">
+            <a href="https://docs.google.com/document/d/1p3yRQzyPTCfkoP1yEGyjQbWMC7BkQ394_BOTgSWRidM/edit?usp=sharing" target="_blank">
               {" "}
               <button class="overflow-hidden relative w-32 p-2 h-12 bg-black text-white border-none rounded-md text-xl font-bold cursor-pointer relative z-10 group">
                 Download{" "}
